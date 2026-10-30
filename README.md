@@ -1,5 +1,7 @@
 # CivicAction: From Complaints to Action
 
+**promptwarz hackathon project**
+
 AI-assisted civic complaint platform. Citizens report issues; the system classifies, summarises, de-duplicates and prioritises them; authorities see hotspots and move each complaint through a tracked workflow.
 
 ## Run
